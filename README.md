@@ -26,12 +26,12 @@ Avant de commencer, assurez-vous d’avoir les éléments suivants installés :
 
 ## Vérification
 
-![Taille du repo](https://img.shields.io/github/repo-size/boudjelaba/CIEL2?label=Taille%20du%20repo)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/boudjelaba/template-depot-git)
-![GitHub language count](https://img.shields.io/github/languages/count/boudjelaba/template-depot-git)
-![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/boudjelaba/template-depot-git)
-[![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/boudjelaba/template-depot-git/issues) [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/boudjelaba/template-depot-git/node-chat)
-[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)]([./CONTRIBUTORS.md](https://github.com/boudjelaba/template-depot-git))
+![Taille du repo](https://img.shields.io/github/repo-size/Nexiones/template-depot-git-Doumbia-Noa?label=Taille%20du%20repo)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Nexiones/template-depot-git-Doumbia-Noa)
+![GitHub language count](https://img.shields.io/github/languages/count/Nexiones/template-depot-git-Doumbia-Noa)
+![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/Nexiones/template-depot-git-Doumbia-Noa)
+[![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/boudjelaba/template-depot-git/issues) [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/boudjelaba/template-depot-git-Doumbia-Noa/node-chat)
+[![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)]([./CONTRIBUTORS.md](https://github.com/boudjelaba/template-depot-git-Doumbia-Noa))
 
 ---
 
