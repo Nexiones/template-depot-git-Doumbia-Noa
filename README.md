@@ -24,6 +24,8 @@ Avant de commencer, assurez-vous d’avoir les éléments suivants installés :
 ![Dernier commit](https://img.shields.io/github/last-commit/boudjelaba/template-depot-git?label=Dernier%20commit)
 [![Status](https://img.shields.io/badge/Status-En%20développement-yellow)]()
 
+## Vérification
+
 ![Taille du repo](https://img.shields.io/github/repo-size/boudjelaba/template-depot-git?label=Taille%20du%20repo)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/boudjelaba/template-depot-git)
 ![GitHub language count](https://img.shields.io/github/languages/count/boudjelaba/template-depot-git)
@@ -251,6 +253,6 @@ Ce projet est sous la licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus 
 
 ## Auteurs
 
-- <r>&copy;</r> K.B.
+- <r>&copy;</r> N.D.
 - <o>&reg;</o> Carnus
 - <g>Date :</g> 01/09/2025
