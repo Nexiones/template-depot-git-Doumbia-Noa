@@ -26,7 +26,7 @@ Avant de commencer, assurez-vous d’avoir les éléments suivants installés :
 
 ## Vérification
 
-![Taille du repo](https://img.shields.io/github/repo-size/Nexiones/template-depot-git?label=Taille%20du%20repo)
+![Taille du repo](https://img.shields.io/github/repo-size/template-depot-git-Doumbia-Noa/template-depot-git?label=Taille%20du%20repo)
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/boudjelaba/template-depot-git)
 ![GitHub language count](https://img.shields.io/github/languages/count/boudjelaba/template-depot-git)
 ![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/boudjelaba/template-depot-git)
