@@ -30,7 +30,7 @@ Avant de commencer, assurez-vous d’avoir les éléments suivants installés :
 ![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/Nexiones/template-depot-git-Doumbia-Noa)
 ![GitHub language count](https://img.shields.io/github/languages/count/Nexiones/template-depot-git-Doumbia-Noa)
 ![GitHub repo file or directory count](https://img.shields.io/github/directory-file-count/Nexiones/template-depot-git-Doumbia-Noa)
-[![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/boudjelaba/template-depot-git/issues) [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/boudjelaba/template-depot-git-Doumbia-Noa/node-chat)
+[![GitHub Issues](https://img.shields.io/github/issues/IgorAntun/node-chat.svg)](https://github.com/Nexiones/template-depot-git-Doumbia-Noa/issues) [![Current Version](https://img.shields.io/badge/version-1.0.7-green.svg)](https://github.com/Nexiones/template-depot-git-Doumbia-Noa/node-chat)
 [![All Contributors](https://img.shields.io/badge/all_contributors-73-orange.svg?style=flat-square)]([./CONTRIBUTORS.md](https://github.com/boudjelaba/template-depot-git-Doumbia-Noa))
 
 ---
